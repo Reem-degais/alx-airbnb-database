@@ -123,3 +123,5 @@ Represents a message sent between users.
 
 ---
 
+## **ER diagram**
+![ER Diagram](er_diagram.png)
